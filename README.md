@@ -1,1 +1,1 @@
-# CS-GRP-THING
+# Projects
